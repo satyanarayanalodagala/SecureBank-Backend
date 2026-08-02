@@ -288,7 +288,9 @@ public class SecurityConfig {
 
                 List.of(
 
-                        "http://localhost:4200"
+                		"http://localhost:4200",
+                        "https://satya-securebank.netlify.app"
+                       
 
                 )
 
